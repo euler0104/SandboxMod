@@ -1,0 +1,5 @@
+type: LiquidSource
+
+category: liquid
+buildVisibility: shown
+alwaysUnlocked: true

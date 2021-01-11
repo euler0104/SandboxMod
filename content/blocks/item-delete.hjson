@@ -1,0 +1,5 @@
+type: ItemVoid
+
+category: distribution
+buildVisibility: shown
+alwaysUnlocked: true

@@ -1,0 +1,5 @@
+type: ItemSource
+
+category: distribution
+buildVisibility: shown
+alwaysUnlocked: true

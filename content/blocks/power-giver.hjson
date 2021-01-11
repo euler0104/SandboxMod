@@ -1,0 +1,5 @@
+type: PowerSource
+
+category: power
+buildVisibility: shown
+alwaysUnlocked: true
